@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HarcamaTakip</string>
+    <string name="splash_text">Harcama Takip Uygulaması</string>
+    <string name="first_fragment_text1">Harcamalarınızı hatırlamamaya son!</string>
+    <string name="first_fragment_text2">Karşınızda Harcama Takip Uygulaması</string>
+    <string name="first_fragment_button_text">Geç</string>
+    <string name="second_fragment_text">Harcamalarınızı kolayca takip edin!</string>
+    <string name="second_fragment_text2">Kolayca kategorize edebilirsiniz!</string>
+    <string name="third_fragment_button_text">Bitir</string>
+    <string name="third_fragment_text">Harcamalarınızı TL Dolar Euro Sterlin para birimleriyle sürekli güncellenen kurla takip edin !</string>
+    <string name="third_fragment_text1">Farklı Para Birimleriyle Takip Edin</string>
+
+
+
+</resources>
